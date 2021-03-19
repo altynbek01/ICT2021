@@ -1,0 +1,13 @@
+C:\ICT2021\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe
+C:\ICT2021\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.deps.json
+C:\ICT2021\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.json
+C:\ICT2021\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.dev.json
+C:\ICT2021\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.dll
+C:\ICT2021\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.pdb
+C:\ICT2021\FileManager\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.csprojAssemblyReference.cache
+C:\ICT2021\FileManager\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfoInputs.cache
+C:\ICT2021\FileManager\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfo.cs
+C:\ICT2021\FileManager\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.csproj.CoreCompileInputs.cache
+C:\ICT2021\FileManager\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.dll
+C:\ICT2021\FileManager\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.pdb
+C:\ICT2021\FileManager\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.genruntimeconfig.cache
